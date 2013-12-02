@@ -1,2 +1,4 @@
 bin/
 resources/images/
+/nbproject/private/
+/build/
